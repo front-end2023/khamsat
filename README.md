@@ -1,1 +1,1 @@
-# 7-amsat
+# khamsat
